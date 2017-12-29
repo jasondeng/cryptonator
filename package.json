@@ -1,0 +1,25 @@
+{
+  "name": "cryptonator",
+  "version": "1.0.0",
+  "description": "Cryptonator Javascript API Wrapper",
+  "author": "Jason Deng <jasondeng94@gmail.com",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonCodeng/cryptonator.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "btc",
+    "cryptocurrency",
+    "api-wrapper"
+  ],
+  "bugs": {
+    "url": "https://github.com/jasonCodeng/cryptonator/issues"
+  },
+  "homepage": "https://github.com/jasonCodeng/cryptonator#readme"
+}
