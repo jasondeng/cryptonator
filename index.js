@@ -14,12 +14,12 @@ function fetchJSON (url) {
 
 function simpleTicker (cc) {
   let url = `${baseUrl}ticker/${cc}`
-  return fetchJSON(url).then(result => result.Data)
+  return fetchJSON(url)
 }
 
 function completeTicker (cc) {
   let url = `${baseUrl}full/${cc}`
-  return fetchJSON(url).then(result => result.Data)
+  return fetchJSON(url)
 }
 
 module.exports = {
