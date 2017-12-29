@@ -1,6 +1,6 @@
 {
   "name": "cryptonator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cryptonator Javascript API Wrapper",
   "author": "Jason Deng <jasondeng94@gmail.com",
   "main": "index.js",
